@@ -1,6 +1,6 @@
-Info will go here
 
-# House Affordability
+
+# Readme
 
 ##Description
 The purpose of this project was to see how much the average prices of homes are in each city and If the average job would be able to afford to buy a house.
